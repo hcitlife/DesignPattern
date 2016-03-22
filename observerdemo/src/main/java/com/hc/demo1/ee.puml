@@ -1,0 +1,16 @@
+@startuml
+
+interface Observer
+Observer <|- ConcreteObserver
+
+interface Observable
+Observable <|- ConcreteObservable
+
+class ObserverTest {
+ Observable observable
+ Observer observer1
+ Observer observer2
+ Observer observer3
+}
+
+@enduml
