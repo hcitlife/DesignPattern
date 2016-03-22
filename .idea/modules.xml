@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DesignPattern.iml" filepath="$PROJECT_DIR$/DesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MVCDemo/MVCDemo.iml" filepath="$PROJECT_DIR$/MVCDemo/MVCDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MVCDemo_Splash/MVCDemo_Splash.iml" filepath="$PROJECT_DIR$/MVCDemo_Splash/MVCDemo_Splash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MVPDemo_ShowUserInfo/MVPDemo_ShowUserInfo.iml" filepath="$PROJECT_DIR$/MVPDemo_ShowUserInfo/MVPDemo_ShowUserInfo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MVPDemo_UserLogin/MVPDemo_UserLogin.iml" filepath="$PROJECT_DIR$/MVPDemo_UserLogin/MVPDemo_UserLogin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MVPDemo_Weather/MVPDemo_Weather.iml" filepath="$PROJECT_DIR$/MVPDemo_Weather/MVPDemo_Weather.iml" />
+    </modules>
+  </component>
+</project>
